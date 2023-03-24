@@ -1,0 +1,51 @@
+{
+  "id": "3917434",
+  "name": "music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4707453",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "7594048",
+      "name": "24gl-play",
+      "font_class": "24gl-play",
+      "unicode": "ea6d",
+      "unicode_decimal": 60013
+    },
+    {
+      "icon_id": "4513254",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "2136994",
+      "name": "电影之夜-歌曲榜",
+      "font_class": "dianyingzhiye-gequbang",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "4275557",
+      "name": "歌手",
+      "font_class": "geshou",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "20784233",
+      "name": "歌单",
+      "font_class": "gedan",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    }
+  ]
+}

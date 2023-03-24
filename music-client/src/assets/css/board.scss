@@ -1,0 +1,61 @@
+@import "@/assets/css/var.scss";
+.board-list{
+  display: flex;
+  margin: 45px 0;
+  &:first-child{
+    margin-top: 10px;
+  }
+} 
+.board-name{
+  width:200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(#aa4b6b, #6b6b83,#3b8d99);
+  margin-right: 10px;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 14px;
+  span:first-child{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+} 
+ul{
+  display: flex;
+  flex-direction: column;
+}
+li{
+  height: 40px;
+  line-height: 40px;
+  text-indent: 10px;
+  font-size: 13px;
+  cursor: pointer;
+  color:#808080
+}
+li:nth-child(even){
+  background:#F5F5F5;
+}
+.title{
+  margin-left: 10px;
+}
+.name{
+  float:right;
+  margin-right: 10px;
+}
+// .ordinal{
+//   color:#989898;
+// }
+.first-three{
+  color: $royal-color!important;;
+}
+.more{
+  color:#767676;
+  font-size: 12px;
+  text-indent: 10px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
